@@ -14,3 +14,5 @@ encoded features to a one-vs-all SVM classifier for identification.
 For the purpose of the study we used a dataset publicly available on IEEE called
 [EEG DATASET OF 7-DAY MOTOR IMAGERY BCI](https://ieee-dataport.org/open-access/eeg-dataset-7-day-motor-imagery-bci).
 
+A more detailed description of the research methods and the results of the study
+can be found in the (unpublished) [paper](https://github.com/BRomans/IdMind/blob/main/idmind_paper.pdf).
